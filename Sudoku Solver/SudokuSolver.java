@@ -107,13 +107,6 @@ public class SudokuSolver {
         return true;
     }
 }
-/*
-// Semester and its GPA
-1 - 7.82
-2 - 8.31
-3 - 7.46
-4 - 8.91
-5 - 8.25
-6 - 8 .0
- */
+
+
 
